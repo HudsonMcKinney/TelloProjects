@@ -1,1 +1,1 @@
-Holds Different projects for the tello drone
+Holds different projects for the tello drone
