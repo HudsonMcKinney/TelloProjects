@@ -38,7 +38,6 @@ def getKeyboardInput():
    return[lr, fb, ud, yv]
 
 
-tello.takeoff()
 
 while True:
    vals = getKeyboardInput()
