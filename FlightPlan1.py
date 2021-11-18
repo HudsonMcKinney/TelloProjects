@@ -9,7 +9,7 @@ feet = 30.48
 
 tello.takeoff()
 sleep(.5)
-tello.move_up(round(3*feet))
+tello.move_up(round(3.333*feet))
 sleep(.5)
 tello.move_forward(round(5*feet))
 sleep(.5)
